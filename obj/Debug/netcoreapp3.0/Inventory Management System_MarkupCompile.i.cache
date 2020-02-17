@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_0
 C:\Users\OnchariWycliffe\source\repos\Inventory Management System\App.xaml
-2-2100450566
+41648791741
 
-4-2083851560
+6-1878949307
 192-1037106189
-MainWindow.xaml;Views\Registration.xaml;
+MainWindow.xaml;Views\DashBoard.xaml;Views\Login.xaml;Views\Registration.xaml;
 
-True
+False
 
